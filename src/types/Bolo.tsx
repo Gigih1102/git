@@ -5,4 +5,6 @@ export interface Bolo {
    imagens: string[];
    preco: number;
    peso: number | null;
+   descricao: string;
 }
+
